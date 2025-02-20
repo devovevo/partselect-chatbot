@@ -1,0 +1,204 @@
+Part Search
+
+If you already know your part number, you may search for parts using either the manufacturer or PartSelect part number. Enter your part number in the Part Search box and click the "Search" button. Note that you must know the entire part number to use the Part Search.
+
+For example, if your part number is 211125, type 211125 in the Part Search box and click the "Search" button. This will take you to a results page displaying the part number, a photo if available, the part description, price, and availability. Click on the "Add to Cart" button to add the part to your cart.
+
+Model Search
+
+The best way to find the repair part you need is to search our site using your appliance or electronic model number. Simply locate your model number (use our handy model number guide ) and enter it into our Model & Part Number Search Box at the top of the page.
+
+Once you have entered your model number and clicked "Search", you will see a list of diagrams for your model along with a description of each diagram, e.g. "FREEZER DOOR" or "CONTROL PANEL". Click on the diagram where you think your part is located.
+
+This will take you to the parts list for that diagram, along with a full-size version of the diagram. Each part in the part list has a number next to it that corresponds to a number on the diagram. If there is a photograph of the part, it will be shown as well. You may change diagrams by clicking on another diagram in the left-hand window, which contains all diagrams for your model. You may scroll around in each window independently so if you don't see your part on the diagram or in the parts list, simply scroll around until you do. Once you have located your part, click on the "Add To Cart" button to add the part to your cart.
+
+You can also search using the part number of appliance or electronic part you’re looking to replace. If you have the part number, you can enter that into the Model & Part Number Search Box at the top of the page and you will be taken to that specific part to purchase.
+
+If you don’t know your part number or model number, you can always select the type of appliance or electronic from the left hand menu on the main page. You will then be able to narrow down the part you are looking for by brand, part type, size and color.
+
+Search by Description
+
+You can also conduct a part search without examining each diagram section, once you have selected your model. For a listing of parts matching your query, and to bypass the diagram schematics, follow these steps:
+
+Type the part name in its simplest form into the search text box
+(Enter roller instead of drum support roller)
+DO NOT enter the pluralized form of a word
+(Enter belt and not belts)
+Try different spelling variations of the same word
+(Ex: ignitor vs. igniter)
+Locating Your Model Number
+
+Look for a metal tag on your appliance. Usually the tag will be in an easy-to-find place. Your model number will be on the tag. Sometimes there will be two model numbers, as in the case of products purchased at Sears. Be sure to always use the manufacturer's model number when doing Model Searches.
+
+Air Conditioner
+Cooktop
+Dehumidifier
+Dishwasher
+Dryer
+Freezer
+Food Disposer
+Microwave
+Refrigerator
+Stove
+Trash Compactor
+Wall Oven
+Washer
+Water Heater
+
+1. Adding Items To Your Cart
+
+To add an item to your cart, click on the "Add to Cart" button next to the part. This will add the item to your cart and take you to your shopping cart. From here you can make any changes to the item quantities, remove items one at a time, or empty your cart entirely. When you are satisfied with the contents of your cart, click on the "Proceed to Checkout" button. You will be taken to the next step in the purchase process, Purchasing Your Parts.
+
+2. Purchasing Your Parts
+
+Review your order for accuracy. Next select a shipping method and enter your shipping and credit card information. Note that all information on this page is protected by 256-bit SSL encryption. Once you have selected your shipping method and entered your credit card information, click on the "Submit" button. You will be taken to the final step in the purchase process, Order Confirmation.
+
+3. Order Confirmation
+
+You will be given an order number, which you should make a note of for your records.You will also receive a confirmation by email with the details of your order. When your order ships, you will receive a shipment confirmation by email with the details of your shipment, including the tracking number. If tracking is available for your shipment method, a tracking link will appear in your email. Click on the link to track your parcel online.
+
+Availability
+
+In Stock - The item is in stock in one of PartSelect's warehouses, and will ship today if your order is placed before 4:00 PM Eastern time. If your order is placed after 4:00 PM EST, your in stock items will ship on the next business day.
+On Order - Item is on order and usually ships in 7 - 10 business days.
+Special Order - Item is not in stock and must be ordered. Item usually ships in 10 - 14 business days.
+The in-stock portion of orders received later than 4:00 PM EST Monday through Thursday will ship the next day. The in-stock portion of orders received later than 4:00 PM EST on Friday or anytime on Saturday or Sunday will ship the following Monday.
+
+No Longer Available
+Sorry, this part is No Longer Available (NLA) at PartSelect.com, which means:
+The part is no longer sold by the manufacturer.
+The manufacturer does not stock any substitute parts to replace this one.
+We cannot obtain the part through any other means.
+Our call center and online agents are, unfortunately, unable to help you locate this part, but you may still be able to find the part elsewhere.
+
+We recommend:
+Typing your part number into a search engine and checking to see whether another company might stock it.
+Searching online stores like eBay for your part number.
+Visiting a local appliance store or parts dealer to see if they have this part in stock.
+Contacting a local technician, who may be able to repair your existing part or replace it with their own solution.
+Contacting the manufacturer of your appliance directly to check for their recommendations.
+
+Series Numbers
+
+Manufacturers often make changes to models, which can sometimes result in different parts being used for your model. For instance, a motor may be changed mid-year, which could mean that a different wiring harness has to be used. When a series number is shown on your appliance, you will need to identify what series your appliance belongs to. The series is the first few characters of your serial number. A serial number is found on the metal plate or the paper sticker attached to your appliance. It may look something like this:
+
+Sample model number tag
+When a given part in a model's part list has a series number, it means that the part is the right one for all models whose serial number starts with that series number, or a higher series number. If there is an exception to this rule, another part will be listed for you. To put it another way, you should select the part with the highest series number which is less than your entire serial number. For example:
+
+Example Series Numbering System
+
+Part's List Series Number   	Serial Numbers it Applies To
+Series 10	1000000 ... 1999999
+Series 20	2000000 ... 5999999
+Series 60	6000000 ...
+Shipping Methods and Costs
+
+PartSelect will ship your parts to any physical address within the United States, except Alaska, Hawaii, Puerto Rico, or United States offshore territories, including APO/FPO US military bases. Because of duty restrictions PartSelect.com is unable to ship most items to Canada. If you are a Canadian customer interested in purchasing parts from PartSelect, please visit PartSelect Canada at www.partselect.ca.
+
+We offer you a variety of shipping options in order to best meet your appliance part needs. We work hard to ensure that you are charged the lowest possible rate for shipping, and that the rate you are charged is as fair as possible.
+
+Please note that not all methods are available from all of PartSelect's warehouses. The available shipping methods will be displayed to you when you are making your purchase. Costs include shipping and handling (no additional handling charges).
+
+We will ship your order complete as soon as all parts are available, ensuring you receive everything in one shipment.
+
+Oversized Items and Extra Shipping Charges
+
+In some cases customers are required to pay extra shipping charges beyond those listed above. Extremely large items may be restricted to more expensive methods (air shipment only, for instance) or the weight or size of certain parts may cause excessive charges. In those cases the customer will be contacted and offered the choice of cancelling the order, or paying the extra freight. Customers will not be charged additional freight without their authorization.
+
+Shipping to P.O. Boxes
+
+Customers should provide street / civic addresses. Some of PartSelect's warehouses ship only by courier and cannot ship to PO boxes. Customers who put in PO box addresses will be contacted via email for a correction. PartSelect is not responsible for delays in shipping this may cause.
+
+Estimated Delivery Date
+
+Estimated delivery date shown on site applies to items which are listed as in-stock and shipped via our standard shipping method. Our average delivery time with this method is 1.8 days. The arrival date is not guaranteed, however 95% of our customers receive their order within 2 business days.
+
+Some customers (especially those in rural areas) may experience longer delivery times and may receive their order after 2-3 business days.
+
+If you select a faster or slower shipping method, then the estimated arrival date will no longer apply.
+
+Our items ship from multiple warehouses all across the USA. We can ship same-day from some locations (particularly on the west coast) as late as 9pm Eastern. However, we cannot guarantee from which location your order will ship. Therefore, we can only be sure your item will ship same day by the earliest cutoff of 4:30pm Eastern.
+
+Therefore, if you are on the site between 4 and 5pm Eastern (or visit in the morning and then come back in the evening) you may notice our estimated arrival date increase by one business day after 4:30pm Eastern. This is a conservative estimate and your order may ship same-day, even when ordering after this time (up to as late as 9pm Eastern).
+
+Cancellations or Changes
+
+PartSelect processes your order as quickly as possible. When we receive your order, it is routed electronically to one of our warehouses. Use our self-service feature if you wish to cancel your order before it ships. Orders cancelled before any items have shipped will have all shipping costs refunded. Once your parts have been shipped, you must wait for them to arrive in order to return them for a full refund.
+
+Your confirmation email may not arrive until after your purchase has already shipped, so please contact PartSelect immediately at 1-888-260-4310 if you wish to cancel or make changes to your order.
+
+Returns
+For your peace of mind, we offer a 365-day return period. Use our self-service feature to complete your return online.
+
+Please be sure your return meets the following conditions:
+
+Parts must be in resaleable condition to qualify:
+
+"Resaleable" means that the part must not have incurred damage, such as signs of installation by the customer, marks, or scuffing.
+Part must also be in its original packaging to be considered resaleable. Please inspect part before removing from its packaging, as this can cause return to be rejected.
+Electrical parts are subject to additional scrutiny.
+Rejected returns cannot be shipped back to customers.
+
+Returning Parts to PartSelect:
+Please have your model number and serial number ready when contacting our customer service to begin the return process.
+After contacting us, you will receive an email with return shipping details (remember to check your junk mail).
+Returns must be received within 365 days of the date the items were originally shipped.
+Customers are responsible for the cost of return shipping.
+If the return is a result of our error, or the part was lost in shipping, contact us within 10 business days to arrange a refund. In this case, we will refund the original cost of shipping after your return has been processed, and provide you with a pre-paid shipping label if we would like the part returned to us. Additional information such as photos of the part may be required to complete a return of this nature.
+
+Receiving Your Refund:
+
+Please allow 7-10 business days after your return has been successfully processed for your refund to appear.
+If your refund is taking longer than expected, or you would like to check its status, please contact our customer service desk for an update on your return.
+
+Mail-In Rebates
+
+Some of the electronic parts we sell are eligible for a Mail-In Rebate (Core Charge). To qualify for the rebate, you must return the old part you are replacing. We offer this rebate because we will refurbish your old part or recycle it and we are passing the savings on to you. You will be charged the full price of the new part but will receive the rebate credit after the old part has been returned to us.
+
+If a part you are purchasing qualifies for the rebate, you will notice a rebate amount at the point of purchase. After you have completed your order, we will send you email instructions on how to send back the old part so that you receive your rebate.
+
+Billing Questions
+
+We commit to you that you will never be charged more than you agree to at the time your order is placed and we will process refunds as promptly as possible.
+
+Foreign Transaction Fees (FTF)
+
+Our head office is located in Canada, along with the bank we use to process credit card transactions. Although all transactions for PartSelect.com are processed in US dollars we have found that some of the US banks issuing credit cards to our customers have started charging a "Foreign Transaction Fee" or "FTF" on transactions originating in Canada.
+
+The FTF is a fee that your bank is choosing to charge you, but we believe it is unfair. If you are charged this fee we will credit your account for the full amount of the FTF. You need only to contact our customer service team at 1-888-260-4310 to address this.
+
+Currently very few of our customers are being charged this fee, and we are working with our bank to find a solution so that none of our customers will be charged an FTF by their banks.
+
+Cookies
+
+Cookies are small bits of information that are stored by your browser either in memory or on your computer's hard drive. Our cookies are used to maintain the information in your shopping cart and nothing more. Most browsers accept cookies by default but you can usually change your browser to prevent cookies from being accepted. In order to make use of this site, you need to make sure that cookies are enabled in your browser.
+
+Secure Shopping
+
+Our Safe Shopping Guarantee protects you while you shop at PartSelect so you never have to worry about credit card safety. We guarantee every transaction you make at PartSelect will be safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at PartSelect. See below for further details of this guarantee.
+
+Why is PartSelect so safe? When you shop at PartSelect, you'll be one of thousands of customers who have safely shopped with us without credit card fraud. Our Secure Sockets Layer (SSL) software is the industry standard. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the internet.
+
+Still don't want to use your credit card on the Internet? That's okay, too. Just contact us at customerservice@partselect.com and we'll be happy to take your order via email. Please note that sending credit card details via email is not as safe as using our on-line secure ordering system.
+
+If you're not comfortable transmitting this information online at all, simply call PartSelect's customer service staff toll-free at 1-888-260-4310 between 8:00 AM and 9:00 PM Eastern time, Monday to Saturday. We'll be happy to take your order over the phone. Your order can be placed most quickly if you conduct your research using the web site first, and have your part numbers ready for the Customer Service Representative.
+
+Guarantee Details:
+
+Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, PartSelect will cover the entire liability for you, up to the full $50. PartSelect will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at PartSelect while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+
+CVV
+
+Providing your CVV ("Card Verification Value") number to an online merchant proves that you actually have the physical credit or debit card in your possession. This helps to keep you safe and reduce fraud.
+
+CVV numbers are NOT your secret PIN (Personal Identification Number). Never enter your PIN number when asked to provide your CVV.
+
+Turn your card over and look at the signature box. You should see either the entire 16-digit credit card number or just the last four digits followed by a special 3-digit code. This 3-digit code is your CVV.
+
+One Price Guarantee
+
+All our appliance parts come with a one price guarantee, so the price you see on the site is the price you pay for the part (plus shipping costs). If you incur any additional charges due to purchasing a part from our site, we would be happy to refund those fees.
+
+Parts Warranty
+
+Unlike many of our competitors, PartSelect sells only Original Equipment Manufacturer (OEM) parts. This means what we sell are the parts the manufacturer recommends and not after-market parts that may or may not work properly on your appliance. All our OEM parts carry a one-year manufacturer's warranty.

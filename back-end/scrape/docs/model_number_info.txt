@@ -1,0 +1,295 @@
+The model number for a Air Conditioner may be located at the following locations:
+   - To the left of the fan opening, on the weather barrier
+   - At the top of the unit in the cool air exhaust port
+   - On either side of the exterior
+   - Behind the front grill on the frame, near the bottom
+   - Below the control panel
+   - Above the refrigerant valves on the back of the air conditioner
+   - On the side of the unit near the run capacitor or electrical lines that go into your home (you may need to remove an access panel)
+   - On either side of the exterior
+   - On the back of the unit where the power cord is located
+   
+The model number for a Cooktop may be located at the following locations:
+   - Underneath a burner
+   - In down-draft models; inside the top part of the vent duct
+   - Underneath the cooktop (if it is a lift-up style)
+   - Underneath a knob
+   - Bottom of cooktop
+
+The model number for a Dehumidifier may be located at the following locations:
+   - Behind the front grill
+   - Behind the control panel
+   - On the exterior back of the unit
+   - On either side of the exterior
+   - Inside the rear wall behind the water reserve
+
+The model number for a Dishwasher may be located at the following locations:
+   - On the door
+   - Behind the control panel
+   - On the door frame
+   - On the inside of the tub wall
+   - Inside edge of the unit
+   - On the unit's frame
+   - On the back exterior of the unit
+   - Inside edge of the unit
+   - On the side of the hose storage
+   - On the door
+
+The model number for a Dryer may be located at the following locations:
+   - On the back exterior of the unit
+   - Near the front of the cabinet side
+   - On the cabinet frame, inside the door
+   - On the inside of the door
+   - At the top of the unit in the front
+   - On the inside of the dryer door
+   - On the door frame
+   - Under the washer lid (inside the door on front-loading washers)
+   - On either side of the exterior, at the base of the unit
+   - Behind the front access panel
+
+The model number for a Freezer may be located at the following locations:
+   - On the exterior back of the unit
+   - Inside on the door
+   - On the exterior side of the unit (right or left)
+   - Inside on the rear wall
+   - On the inside of the door
+   - On the unit's frame
+   - On a wall on the inside of the unit
+   - Inside trim
+   - Behind the kick plate on the lower front part of the unit
+
+The model number for a Food Disposer may be located at the following locations:
+   - On the side of the unit
+   - On the bottom of the unit
+
+The model number for a Microwave may be located at the following locations:
+   - On the door frame
+   - On the inside of the door
+   - On the control panel
+   - Behind the control panel
+   - On a wall on the inside of the unit
+   - Either side of the exterior
+   - On the exterior back of the unit
+   - On the interior wall of the microwave (microwave model number only)
+   - On the right-hand side of the vent, under the control panel
+   - On the door frame
+   - On the rear panel
+   - On the exterior back of the unit
+
+The model number for a Refrigerator may be located at the following locations:
+   - On the interior ceiling
+   - On the inside wall of the freezer
+   - On the inside of the door
+   - On the door frame
+   - On the interior wall behind the lower crisper drawer
+   - On either inside wall of the unit
+   - On the interior floor bottom (remove crisper drawer)
+   - Behind the kick plate
+
+The model number for a Range may be located at the following locations:
+   - Behind the control panel (Gas)
+   - Behind the fuse cover
+   - Underneath the cooktop (if it is a lift-up style)
+   - Under the front surface unit
+   - Frame of the broiler section
+   - On the door frame
+   - On the exterior of the unit
+   - Interior side panel
+   - On the inside of the lower storage compartment wall
+
+The model number for a Trash Compactor may be located at the following locations:
+   - Near the door
+   - Inside on either side of the cabinet
+   - Behind the trash door or drawer, on the frame of the unit
+   - On the rim of the inside of the unit
+
+The model number for a Wall Oven may be located at the following locations:
+   - On an exterior wall
+   - On the door frame
+   - On an inside wall
+
+The model number for a Washer may be located at the following locations:
+   - On the inside of the door
+   - On the door frame
+   - On the front exterior of the unit
+   - On either side of the exterior
+   - On the back exterior of the unit
+   - Under the lid on the frame
+   - Under the lid along the back of the tub opening
+   - Inside the washer lid
+   - On the control panel
+   - On the front of the exterior
+   - On an inside wall
+   - On either side of the exterior
+   - The back of the exterior
+   - At the top of the unit in the front
+   - On the inside of the dryer door
+   - On the door frame
+   - Under the washer lid (inside the door on front-loading washers)
+   - On either side of the exterior, at the base of the unit
+
+The model number for a Water Heater may be located at the following locations:
+   - On the rating plate (top center of heater)
+   - On either side of the exterior
+   - On either side of the interior
+
+The model number for a Aerator may be located at the following locations:
+   - On the handle bars
+   - Left side wheel attachment
+   - Right side wheel attachment
+   - On the frame
+
+The model number for a Auger may be located at the following locations:
+   - On the motor housing
+   - Sticker on front center of auger between handlebars
+   - Sticker on front of brace above the bit
+
+The model number for a Brush Cutter may be located at the following locations:
+   - On top of unit
+   - On bottom of motor housing
+   - Sticker on shaft of unit
+   - On side of motor housing
+
+The model number for a Chainsaw may be located at the following locations:
+   - On the side of the housing, behind the top handle
+   - On the starter housing
+   - Near the rear grip
+   - On the side of the motor housing
+
+The model number for a Chipper Shredder may be located at the following locations:
+   - On the rear of the intake assembly
+   - On the housing near the blades
+   - On the horizontal frame near the wheels
+
+The model number for a Compressor may be located at the following locations:
+   - On the front of the tank
+   - On the pump or motor housing
+   - On the base plate welded onto tank
+   - On the sides of the tank
+   - On the underside of the tank
+
+The model number for a Composter may be located at the following locations:
+   - On the lid
+   - On the side of the drum
+   - At the bottom of the unit
+   - On the side of the support arms
+
+The model number for a Cultivator may be located at the following locations:
+   - On the engine housing
+   - On the handles
+   - On the top or sides of the tine guard/housing
+
+The model number for a Dethatcher may be located at the following locations:
+   - On right side wheel attachment
+   - On left side wheel attachment
+   - Front horizontal base
+   - Rear horizontal base
+
+The model number for a Edger may be located at the following locations:
+   - On the back
+   - Front of the motor housing
+   - On the rear of the frame of the unit
+   - On the shaft (stick edger)
+
+The model number for a Engine may be located at the following locations:
+   - On the top or sides of the engine housing
+   - On the gas tank
+   - On the recoil housing
+
+The model number for a Generator may be located at the following locations:
+   - On the fuel tank
+   - On top of control panel near outlets
+   - On the frame
+   - On the side of the motor assembly
+
+The model number for a Hedge Trimmer may be located at the following locations:
+   - On the side of the motor housing
+   - On the front under the handlebar
+   - On the gearbox
+
+The model number for a Lawn Mower may be located at the following locations:
+   - On the handle bars
+   - On top of the engine cover
+   - Near discharge chute, often behind chute flaps
+   - On rear of the deck, behind the engine
+
+The model number for a Lawn Tractor may be located at the following locations:
+   - On the underside of the seat
+   - Under the hood of the lawn mower
+   - On the rear of the frame
+
+The model number for a Leaf Blower may be located at the following locations:
+   - Inside of vacuum canister
+   - Side of the motor housing
+   - On the rear of the blower
+   - On the bottom of the belly of the vacuum
+   - On the rear base of the vacuum
+
+The model number for a Log Splitter may be located at the following locations:
+   - Right or left of the frame above wheels
+   - Right or left side on horizontal beam
+   - On the rear of the frame behind the wheels
+
+The model number for a Pole Saw may be located at the following locations:
+   - Back of motor housing
+   - On the shaft
+   - Side of motor housing
+
+The model number for a Power Broom may be located at the following locations:
+   - On the side or back of the motor housing
+   - On the horizontal shaft under handlebar
+   - On the main section of the body in the middle of the unit
+
+The model number for a Pressure Washer may be located at the following locations:
+   - On the sides of the frame
+   - On the front of the unit
+   - On the pump
+
+The model number for a Snow Blower may be located at the following locations:
+   - On the frame near the engine
+   - On the lower rear of the snow blower between wheels
+   - On the side of the auger housing
+
+The model number for a Sod Cutter may be located at the following locations:
+   - On the instrument panel
+   - On the left side of the engine housing
+   - On the machines frame
+   - On the belt cover
+   - Along arm on left side
+
+The model number for a Sprayer may be located at the following locations:
+   - On the side of container
+   - On the neck of the container cap
+   - On the bottom of the container
+
+The model number for a Spreader may be located at the following locations:
+   - On the inside wall of the spreader
+   - On the sides of the frame above the wheels
+
+The model number for a Stump Grinder may be located at the following locations:
+   - On the sides of the frame above the grinder
+   - On the horizontal attachment bars
+   - On the top of the frame
+
+The model number for a Sweeper may be located at the following locations:
+   - Horizontal shaft under handlebar
+   - Main section of body in middle of unit
+   - Side of motor housing
+   - Back of motor housing
+
+The model number for a Tiller may be located at the following locations:
+   - On the transmission or gearbox housing
+   - On the frame near the wheels
+   - On the top or sides of the tine guard/housing
+
+The model number for a Trimmer may be located at the following locations:
+   - On the shaft
+   - On the side of the motor housing
+
+The model number for a Water Pump may be located at the following locations:
+   - On back of dispenser
+   - Behind removable panel
+   - On the sides of the pump
+   - On the bottom of the pump
+   - On the frame
+   - On the rear of the pump
